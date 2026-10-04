@@ -1,11 +1,11 @@
 # GuessTheNumber
 A console-based Number Guessing Game developed in C using loops, conditional statements, random number generation, and score tracking.
-The program generates a random number between **1 and 100**, and the player gets **10 attempts** to guess it.
+The program generates a random number between **1 and 100**, and the player gets **08 attempts** to guess it.
 
 ## Features
 
 *  Random number generation from 1–100
-*  Maximum of 10 attempts per game
+*  Maximum of 08 attempts per game
 *  Hint when the guess is too low
 *  Hint when the guess is too high
 *  Win and loss tracking
@@ -36,7 +36,7 @@ This project helped me practice:
 4. The program provides a hint:
    * **"Guess higher"** if the guess is too low.
    * **"Guess lower"** if the guess is too high.
-5. The player has a maximum of **10 attempts**.
+5. The player has a maximum of **08 attempts**.
 6. The program displays the result and updates the score.
 7. The player can choose to play another round.
 
