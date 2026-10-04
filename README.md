@@ -49,7 +49,3 @@ This project helped me practice:
 ## Author
 
 **Syed Shahmeer Mustafa**
-
-This project was created as part of my journey learning **C programming** and building projects from programming fundamentals.
-⭐ If you found this project interesting, feel free to check out the code!
-
